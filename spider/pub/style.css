@@ -1,0 +1,71 @@
+*
+{
+    padding:0;
+    margin:0;
+    font-family:sans-serif;
+}
+.menu-bar
+{
+    background-color:rgb(0,91,143);
+     
+}
+.navbar-brand
+{
+    font-size:26px;
+    color:rgb(233, 243, 236);
+}
+.nav-link
+{
+    font-size:36px;
+    color:rgb(233, 243, 236) !important;
+    margin:2px;
+}
+.navbar-nav
+{
+    text-align:right;
+}
+.menu-bar .navbar-toggler
+{
+    padding-right:0;
+    outline: none;
+    border: none;
+}
+.banner
+{
+    height:80vh;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://img.freepik.com/free-vector/people-using-their-mobile-phones-news_52683-39976.jpg?size=626&ext=jpg&uid=R25516674&ga=GA1.2.409820390.1596425504);
+    background-size:cover;
+    background-position: center;
+    color:#fff;
+}
+
+
+.banner h1
+{
+    padding-top:170px;
+    font-size:50px;
+    letter-spacing:6px;
+    font-wieght:600;
+    text-shadow:0 0 30px rgba(0,0,0,0.5);
+}
+/*-----Top Categories------*/
+
+#categories
+{
+    padding-top:50px ;
+    padding-bottom:100px;
+}
+#categories h3
+{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.footer
+{
+    background:rgb(0,91,143);
+}
+.a:link
+  {
+      color:#fff;
+      text-decoration:
+  }
